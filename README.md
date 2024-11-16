@@ -36,7 +36,7 @@ Este proyecto es una aplicación para la gestión de reservas de habitaciones en
 
 1. **Clona el repositorio**:
     ```bash
-    git clone https://github.com/tu_usuario/tu_repositorio.git
+    git clone https://github.com/Sebasmiumg/Parcial-final.git
     ```
 
 2. **Backend**:
